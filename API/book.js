@@ -1,6 +1,6 @@
-const Router = require("express").Router()
+const Router = require("express").Router();
 
-const BookModel = require("../schema/books")
+const BookModel = require("../schema/book");
 const AuthorModel = require("../schema/author");
 
 // Route    - /book

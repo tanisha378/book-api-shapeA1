@@ -33,7 +33,7 @@ let Author = [
     },
     {
         id: 3,
-        name: "Aditya",
+        name: "Tanisha",
         books: [],
     },
 ];
